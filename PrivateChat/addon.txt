@@ -1,0 +1,9 @@
+"AddonInfo"
+{
+	"name"              "PrivateChat"
+	"version"           "1"
+	"author_name"       "YVL"
+	"author_email"      ""
+	"info"              "Private Chat"
+	"override"          "0"
+}
