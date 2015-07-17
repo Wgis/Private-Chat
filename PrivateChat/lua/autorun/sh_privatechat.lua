@@ -1,6 +1,6 @@
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 // Gmod private text/voice/group chat    																											  //
-// Created by YVL (http://steamcommunity.com/id/__yvl/)		                 																		  //
+// Created by cobalt		                 																		  //
 // Design inspired by Metro For Steam	     																										  //
 // http://metroforsteam.com/            																										  	  //
 //                                      																											  //
